@@ -38,7 +38,6 @@ For example,
 목: 16-17
 금: 13-15
 ```
-See [`input.txt`](./input.txt).
 
 ## Usage
 ```bash
